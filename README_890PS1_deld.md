@@ -6,6 +6,7 @@
 
 ## Resources Used
 - For VFI, I used Thomas Sargent and John Stachurski's guide on [QuantEcon](https://jax.quantecon.org/opt_savings_1.html)
+- [Ljungqvist and Sargent (1998)](https://www.jstor.org/stable/10.1086/250020)
 
 ## Packages Required
 - quantecon: For dynamic programming and approximating continuous time problem
