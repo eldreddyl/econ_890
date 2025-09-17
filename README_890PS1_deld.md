@@ -9,9 +9,6 @@
 - [Ljungqvist and Sargent (1998)](https://www.jstor.org/stable/10.1086/250020)
 
 ## Packages Required
-- quantecon: For dynamic programming and approximating continuous time problem
-- numpy: For initial VFI 
-- jax: To improve performance compared to numpy
+- numpy: For VFI
 - matplotlib: for creating figures
-- collections: For more readable tuples
 - time: For benchmarking
